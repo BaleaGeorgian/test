@@ -20,7 +20,7 @@ public class Curs4p4 {
 
         }
 
-
+        System.out.println();
 
 
     }
